@@ -88,6 +88,6 @@ Les fichiers Gerber et de perçage ont été générés pour la **fraiseuse num�
 - **Nihed Missar**
 - **Nassim Maaoui**
 
-Encadrement : M. Mohamed Ould-Elhassen Aoueileyine (Tech4IoT) et Mme Kaouther Gasmi (FSB).
+Encadrement : M. Mohamed Ould-Elhassen Aoueileyine (Tech4IoT).
 
-Dépôt d'origine : [iborntowin/Esat-Pcb-KiCad](https://github.com/iborntowin/Esat-Pcb-KiCad)
+
